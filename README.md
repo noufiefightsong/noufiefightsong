@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-<!--
-**noufiefightsong/noufiefightsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <i>"Building in the dark, one line of code at a time."</i>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☾ all about lachrymose noufie
+- 🕯️ 5teen & aspiring computer scientist
+- ♑︎𖤓 & ♈︎☾+⇡
+- 🕷️ lowkey a complete beginner so far
+
+---
+
+### ♱ Arsenal & Tools
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 🦇 Current Archives
+- 🎸 **[hole-mood-generator](https://github.com)** — A Python mood-based song picker stocked with niche Hole deep cuts.
+- 🔮 *More nocturnal Python experiments brewing...*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com" />
+</div>
