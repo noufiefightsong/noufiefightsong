@@ -7,7 +7,7 @@
 ---
 
 ### ☾ all about lachrymose noufie
-- 🕯️ 5teen & aspiring computer scientist
+- 🕯️ 5teen & an aspiring comp sci student
 - ♑☀ & ♈☾+↑
 - 🕷️ lowkey a complete beginner so far
 
