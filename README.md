@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☾ 𝚗𝚘𝚞𝚏𝚒𝚎𝚏𝚒𝚐𝚑𝚝𝚜𝚘𝚗𝚐 ☽</h1>
-  <i>>*"Hell is a teenage girl."* — **Jennifer's Body (2009)**
+  <i>*"Hell is a teenage girl."* — **Jennifer's Body (2009)**
 </i>
 </div>
 
