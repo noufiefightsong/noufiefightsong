@@ -20,5 +20,5 @@
 ---
 
 ### 🦇 Current Archives
-- 🎸 **[hole-mood-generator](https://github.com)** — A Python mood-based song picker stocked with niche Hole deep cuts.
+- 🎸 **[hole-mood-generator](https://www.online-python.com/E9maCL88d2)** — a random hole song generator where it gives you a song based off of your mood
 - 🔮 *more projects coming soon...*
