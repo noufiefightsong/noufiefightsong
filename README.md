@@ -1,6 +1,7 @@
 <div align="center">
   <h1>☾ 𝚗𝚘𝚞𝚏𝚒𝚎𝚏𝚒𝚐𝚑𝚝𝚜𝚘𝚗𝚐 ☽</h1>
-  <i>"Building in the dark, one line of code at a time."</i>
+  <i>>*"Hell is a teenage girl."* — **Jennifer's Body (2009)**
+</i>
 </div>
 
 ---
@@ -13,10 +14,11 @@
 ---
 
 ### ♱ Arsenal & Tools
-`Python` • `VS Code` • `GitHub`
+`Python` • `Python IDE (iOS)` • `GitHub`
+
 
 ---
 
 ### 🦇 Current Archives
 - 🎸 **[hole-mood-generator](https://github.com)** — A Python mood-based song picker stocked with niche Hole deep cuts.
-- 🔮 *More nocturnal Python experiments brewing...*
+- 🔮 *more projects coming soon...*
