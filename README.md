@@ -21,5 +21,5 @@
 
 ### 🦇 Current Archives
 - 🎸 **[hole mood generator](https://www.online-python.com/DNcy1lImLY)** — a random hole song generator where it gives you a song based off of your mood
-- ✖️ **[which cm punk entrance song are you](https://www.online-python.com/SnMozkY4s6)** -- answer a couple of questions and get assigned a cm punk entrance song
+- ✖️ **[which cm punk entrance song are you](https://www.online-python.com/SnMozkY4s6)** — answer a couple of questions and get assigned a cm punk entrance song
 - 🔮 *more projects coming soon...*
